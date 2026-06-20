@@ -1,0 +1,5 @@
+#Fate Client injector config file
+customProcName=false
+delaystr=5
+dllPath=D:\LosoSense\LosoSense\x64\Release\LosoSense.dll
+procName=minecraft.windows.exe
